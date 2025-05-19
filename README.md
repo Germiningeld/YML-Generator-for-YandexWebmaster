@@ -1,0 +1,1 @@
+# YML-Generator-for-YandexWebmaster
